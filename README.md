@@ -15,5 +15,5 @@ Check solution into GitHub
 # Endpoints
 ## /api/total  returns all customers with their respective rewards points
 
-## /api/month/{date} returns all customers with their respective rewards points for a particular dates's month and the two previous months
+## /api/month/{date(YYYY-MM-DD} returns all customers with their respective rewards points for a particular dates's month and the two previous months
 
